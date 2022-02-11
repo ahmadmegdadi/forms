@@ -1,0 +1,45 @@
+body {
+    background-color: burlywood;
+}
+
+#div1 {
+    background-color: rgb(235, 206, 43);
+    border: rgb(7, 2, 4);
+}
+
+#div2 {
+    background-color: rgb(55, 153, 55);
+}
+
+#div3 {
+    background-color: rgb(55, 12, 245);
+    margin-top: 10px;
+    border: rgb(224, 212, 43) solid 5px;
+    height: 50px;
+}
+
+p {
+    background-color: rgb(173, 169, 190);
+    border: lightcoral solid 10px;
+    height: 410px;
+    margin-top: 30px;
+    padding-top: 15px;
+    direction: rtl;
+}
+
+th {
+    font-size: 30px;
+    text-align: center;
+    border: 6px solid black;
+    width: 25%;
+}
+
+.img1 {
+    width: 330px;
+    height: 400px;
+    display: inline;
+}
+
+h1 {
+    text-align: center;
+}
